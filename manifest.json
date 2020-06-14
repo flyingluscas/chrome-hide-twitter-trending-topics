@@ -1,0 +1,6 @@
+{
+  "name": "Hide Twitter Trending Topics",
+  "version": "0.1.0",
+  "description": "Hides Twitter's trending topics section.",
+  "manifest_version": 2
+}
